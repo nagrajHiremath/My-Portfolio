@@ -11,7 +11,7 @@ Portfolio website build using simple HTML5, CSS3.
 
 
 
-## 📌 Sneak Peek of Main Page 🙈 :
+## 📌 Sneak Peek of Main Page :
 ![mockup720](https://github.com/nagrajHiremath/My-Portfolio/blob/main/Screenshots/Home.png)
 ![skillsmockup](https://github.com/nagrajHiremath/My-Portfolio/blob/main/Screenshots/Skills.png)
 
